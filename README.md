@@ -18,5 +18,5 @@ Run the script using the following command:
 
 # Notes
 
-Example CSV files in the repository
-Example template of XML file in the repository
+Example CSV files and a template of an XML file in the repository
+
