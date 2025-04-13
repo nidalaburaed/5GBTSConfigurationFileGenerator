@@ -1,6 +1,6 @@
 # Description
 
-A script to generate 5G New Radio (vRAN) base station commissioning file (XML) based on predefined testcase Excel sheet (CSV)
+A script to generate 5G New Radio (vRAN) base station configuration file (XML) based on predefined testcase Excel sheet (CSV)
 
 # How to use
 
