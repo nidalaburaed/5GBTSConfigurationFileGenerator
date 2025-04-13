@@ -1,0 +1,25 @@
+<BaseStationCommissioning>
+    <BaseStationInfo>
+        <BaseStationID>BS001</BaseStationID>
+        <Location>Area123</Location>
+        <Operator>Operator1</Operator>
+        <PLMN>1000</PLMN>
+        <TAC>270</TAC>
+    </BaseStationInfo>
+    <RadioSettings>
+        <Band n="n78">
+            <Bandwidth>/&%=)</Bandwidth>
+            <TransmissionPower>150</TransmissionPower>
+            <Frequency>2500</Frequency>
+        </Band>
+    </RadioSettings>
+    <CellConfiguration>
+        <CellID>1</CellID>
+        <CellName>TestCell1</CellName>
+        <CellType>Micro</CellType>
+    </CellConfiguration>
+    <TransportSettings>
+        <Ethernet>Enabled</Ethernet>
+        <IP>localhost</IP>
+    </TransportSettings>
+</BaseStationCommissioning>

@@ -1,0 +1,2 @@
+TestCaseID,BaseStationID,Location,Operator,PLMN,TAC,Band,Bandwidth,TransmissionPower,Frequency,CellID,CellName,CellType,Ethernet,IP
+TC001,BS001,Area123,Operator1,1000,270,n91,200,150,2500,1,TestCell1,Micro,Enabled,localhost
