@@ -20,3 +20,6 @@ Run the script using the following command:
 
 Example CSV files and a template of an XML file in the repository
 
+## Inquiries
+
+In case of inquiries, feel free to send a message via email to nidalaburaed94@gmail.com
