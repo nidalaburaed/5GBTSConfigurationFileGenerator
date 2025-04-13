@@ -15,3 +15,8 @@ Run the script using the following command:
 ```bash
 ./generateXMLfromCSV <testcase.csv> <commissioning-file.xml>
 ```
+
+# Notes
+
+Example CSV files in the repository
+Example template of XML file in the repository
